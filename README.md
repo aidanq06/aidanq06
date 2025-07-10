@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Aidan Quach</h1>
 <p align="center">
-  🚀 Aspiring Machine Learning Engineer | iOS Dev | Full-Stack Hacker  
+  🚀 Aspiring Machine Learning Engineer 
   <br>
   🎓 University of Florida '29 — CS Major  
   <br>
-  📍 Tampa, FL · aidan.quachh@gmail.com · [GitHub](https://github.com/aidanq06)
+  📍 Tampa, FL · aidan.quachh@gmail.com
 </p>
 
 ---
