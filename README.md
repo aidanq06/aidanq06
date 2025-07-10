@@ -73,7 +73,6 @@ I'm a driven and entrepreneurial computer science student passionate about **AI,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-GPT-4-412991?logo=openai&logoColor=white)
 
 > **Frameworks**: TensorFlow, PyTorch, Node.js, Docker  
 > **Tools**: Git, OAuth 2.0, REST APIs, Google Cloud, Bash
