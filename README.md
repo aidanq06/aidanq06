@@ -1,75 +1,69 @@
-<h1 align="center">Aidan Quach</h1>
-<p align="center">
-  Aspiring Machine Learning Engineer · CS @ University of Florida '29  
-  <br>
-  Tampa, FL · aidan.quachh@gmail.com
-</p>
-
----
-
-### About Me
-
-I'm a computer science student focused on building clean, impactful tools at the intersection of **AI**, **design**, and **automation**.
-
-Currently a Software Engineering Intern @ **DEX Imaging**, building internal automation systems to improve operational efficiency.
-
-> My goals: launch products that scale, land a top-tier ML internship, and contribute to open-source innovation.
-
----
-
-### Featured Projects
-
-#### [ChartSense](https://github.com/aidanq06) – AI-Powered Stock Sentiment
-
-- GPT-4 driven sentiment analysis from financial news & social data  
-- SwiftUI frontend + Firebase + MongoDB backend  
-- Clean UI with custom sparkline visualizations
+<h1 align="center">terminal@aidanquach:~$</h1>
 
 <p align="center">
-  <img src="https://github.com/aidanq06/ChartSense/assets/demo.gif" alt="ChartSense demo" width="80%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF99&vCenter=true&width=435&lines=Welcome+to+Aidan's+Terminal+🧠" />
 </p>
 
-#### [PartnerLink](https://github.com/aidanq06) – Resource Network for Schools
+```
+$ whoami
+👨‍💻 Aidan Quach — Aspiring Machine Learning Engineer  
+🎓 CS @ University of Florida · Class of 2029  
+📍 Tampa, FL · aidan.quachh@gmail.com
 
-- Python backend with MongoDB, Gmail API, and scraping automation  
-- OAuth 2.0 login with secure 2FA support  
-- Connects verified business partners with schools
+$ cat mission.txt
+> Build real tools. Ship clean code. Scale products that matter.
 
----
+$ ls ./projects
+📊 ChartSense     🤝 PartnerLink     🤖 AI Utilities
 
-### Experience
+$ ./launch.sh ChartSense
+> 🧠 Initializing GPT-4 engine...
+> 🔎 Analyzing real-time market data...
+> 💬 Pulling Reddit + news sentiment...
+> 💹 SwiftUI frontend rendering sparkline graphs...
+✅ ChartSense launched: github.com/aidanq06/ChartSense
 
-- **DEX Imaging** – Software Intern  
-  → Automated workflows in Python & JS  
-  → Extended contract after high-impact delivery  
+$ ./launch.sh PartnerLink
+> Connecting schools to verified businesses...
+> Parsing Gmail threads & automating partner workflows...
+> 🔐 OAuth 2.0 & secure MongoDB backend...
+✅ PartnerLink live: github.com/aidanq06/PartnerLink
 
-- **Royal Robotics** – Lead Developer  
-  → Developed VEX autonomous systems in C++  
-  → Mentored 30+ students in robotics & embedded dev  
+$ cd ./experience
 
-- **TampaHack** – Co-Founder  
-  → Hosted high school hackathons & built mentorship programs  
+$ nano dex_intern.txt
+📁 Software Engineering Intern @ DEX Imaging  
+  → Built internal automation systems in Python & JavaScript  
+  → Contract extended after high-impact delivery  
 
----
+$ nano robotics.txt
+🤖 Lead Developer @ Royal Robotics  
+  → Wrote autonomous C++ systems for VEX robots  
+  → Mentored 30+ students in embedded programming
 
-### Skills & Tools
+$ nano tampahack.txt
+⚡ Co-Founder @ TampaHack  
+  → Hosted student hackathons & launched mentorship programs
 
-**Languages**: Python, C++, Swift, JavaScript  
-**Frameworks**: TensorFlow, PyTorch, Node.js, SwiftUI  
-**Tools**: MongoDB, Firebase, Git, Docker, REST APIs, OAuth
+$ cd ./skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SwiftUI-F05138?logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black"/>
-</p>
+$ ls
+💻 Python     🧠 PyTorch     📱 SwiftUI     🌐 Node.js  
+📦 MongoDB    ☁️ Firebase    🔐 OAuth 2.0  🧪 TensorFlow
 
+$ man aidan
+NAME
+     aidan — Developer focused on AI, automation, and clean design
 
-### Contact
+DESCRIPTION
+     Aidan blends machine learning with UI/UX to build useful, scalable tools.  
+     Interested in internships, startup collabs, and shipping AI-powered products.
 
-- [LinkedIn](https://www.linkedin.com/in/aidan-quach/)  
-- Open to internships, startup collabs, and AI + fintech projects
+$ git commit -m "Pushing clean code daily"
+✔️ Committed to lifelong learning
 
-<p align="center">Clean code. Real products. Ongoing growth.</p>
+$ exit
+👋 Thanks for visiting! Let's connect:
+🔗 LinkedIn: https://www.linkedin.com/in/aidan-quach/  
+📬 Email: aidan.quachh@gmail.com
+```
