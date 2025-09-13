@@ -1,1 +1,2 @@
-[![Portfolio Preview](https://github.com/user-attachments/assets/39f7de92-4b1c-4534-a1fc-ce7a5bc0ac72)](https://aidanquach.dev/)
+[![Portfolio Preview](https://github.com/user-attachments/assets/fe42f38b-6c48-457d-95c1-0214026cb58f)](https://aidanquach.dev/)
+
