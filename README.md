@@ -1,1 +1,1 @@
-<img width="1294" height="856" alt="carbon" src="https://github.com/user-attachments/assets/986f257e-0058-47db-a2f3-d2a839d0fa18" />
+[![Portfolio Preview](https://github.com/user-attachments/assets/39f7de92-4b1c-4534-a1fc-ce7a5bc0ac72)](https://aidanquach.dev/)
